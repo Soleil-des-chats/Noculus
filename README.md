@@ -12,7 +12,7 @@ The computer part is also a group of tools wich are included in the installer, t
 Example : Resolution, FPS and more...
 
 
-## Instalation
+## Installation
 
 Noculus is combined into downloadable software to facilitate installation.
 To download it go in the Release Section or click [here](https://github.com/Soleil-des-chats/Noculus/releases/latest)
